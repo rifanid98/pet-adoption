@@ -1,6 +1,6 @@
 # Pet Adoption App UI | React Native
 
-This project is designed for practice only. Anyone who wants to use this project for commercial purposes, please contact the UI designer at the source info below.
+This project is made for training purposes only. Anyone who wants to use this project for commercial purposes, please contact the UI designer at the source info below.
 
 # Source 
 
